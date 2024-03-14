@@ -94,7 +94,6 @@ interface DamageLogger {
 
 // 8
 interface Book {
-    // Додаємо markDamaged типу DamageLogger
     markDamaged?: DamageLogger;
 }
 
