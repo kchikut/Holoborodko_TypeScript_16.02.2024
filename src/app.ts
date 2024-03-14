@@ -75,9 +75,9 @@ const myBook: Book = {
     author: 'Eric A. Meyer',
     available: true,
     category: Category.CSS,
-    year: 2015, // Додали властивість year
+    year: 2015,
     copies: 3,
-    pages: 200 // Додали властивість pages
+    pages: 200
 };
 printBook(myBook);
 
